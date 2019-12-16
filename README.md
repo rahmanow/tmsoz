@@ -15,10 +15,15 @@ Note: This is ongoing project. Now works only with words starting with a and b.
 
 Examples:
 
-English             Turkmen
 // core word <br />
-book = kitap <br />      
-my book             kitabym     // last letter 'p' changes to 'b' and adds ending 'ym'
-your book           kitabyň     // last letter 'p' changes to 'b' and adds ending 'yň'
-his book            kitaby      // last letter 'p' changes to 'b' and adds ending 'y'
+book - kitap <br />   
+
+// last letter 'p' changes to 'b' and adds ending 'ym' <br />   
+my book - kitabym
+
+// last letter 'p' changes to 'b' and adds ending 'yň' <br />
+your book - kitabyň
+
+// last letter 'p' changes to 'b' and adds ending 'y' <br />
+his book - kitaby      
 
