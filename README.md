@@ -16,9 +16,9 @@ Note: This is ongoing project. Now works only with words starting with a and b.
 Examples:
 
 // core word <br />
-book - kitap <br />   
+book - kitap
 
-// last letter 'p' changes to 'b' and adds ending 'ym' <br />   
+// last letter 'p' changes to 'b' and adds ending 'ym' <br />
 my book - kitabym
 
 // last letter 'p' changes to 'b' and adds ending 'yň' <br />
